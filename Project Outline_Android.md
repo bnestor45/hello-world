@@ -38,3 +38,5 @@ Again, depending on app evolution, additional functions may be added such as due
 Task Name: [__User Input__]  
 [ Save ]     [ Cancel ]
 -----------------------------------
+
+<img width="1050" height="865" alt="image" src="https://github.com/user-attachments/assets/9e5dd916-fc8e-4b90-a60a-cb81f6e6ec61" />
